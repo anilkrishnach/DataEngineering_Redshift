@@ -11,7 +11,7 @@ The 2 datasets provide the following information:
 1. Log Events: The data contains log information of songs played by users in different sessions.
 
 #### Sample Data
-[!Log Data] (/images/Log_data.png)
+[!Log Data] (images/Log_data.png)
 
 2. Song Data: The data contains information regarding individual songs.
 
@@ -20,7 +20,7 @@ The data is given in the form of JSON in 2 S3 buckets. This data is first brough
 - Staging_Songs: For Song data.
 
 #### Sample Data
-[!Song Data] (/images/Song_Data.png)
+[!Song Data] (images/Song_Data.png)
 
 ### Star Schema
 
@@ -33,7 +33,7 @@ The data is now stored in a star schema of 4 dimensional tables and a fact table
     - Songs
     - Time
 
-[!Star Schema] (/images/star_schema.png)
+[!Star Schema] (images/star_schema.png)
 
 ## Results - Usage of Redshift
 
