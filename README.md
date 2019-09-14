@@ -20,7 +20,7 @@ The data is given in the form of JSON in 2 S3 buckets. This data is first brough
 - Staging_Songs: For Song data.
 
 #### Sample Data
-![Song Data](/images/Song_Data.png)
+![Song Data](/images/Song_data.png)
 
 ### Star Schema
 
